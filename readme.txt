@@ -3,8 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changs of files.
 Git is better than SVN.
-<<<<<<< HEAD
 Creating a new brach is quick AND simple.
-=======
-Creating a new brach is quick and simple.
->>>>>>> feature1
